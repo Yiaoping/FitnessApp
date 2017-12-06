@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string-array name="Exercise">
+        <item>Bench Press</item>
+        <item>Squat</item>
+        <item>Deadlift</item>
+        <item>Overhead Press</item>
+    </string-array>
+    <string name="saved_data">Data Saved</string>
+</resources>
